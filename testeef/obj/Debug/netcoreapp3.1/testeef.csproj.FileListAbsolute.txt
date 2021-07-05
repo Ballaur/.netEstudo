@@ -1,0 +1,5 @@
+C:\Users\991718\Documents\Alura.WebAPI\testeef\obj\Debug\netcoreapp3.1\testeef.csprojAssemblyReference.cache
+C:\Users\991718\Documents\Alura.WebAPI\testeef\obj\Debug\netcoreapp3.1\testeef.AssemblyInfoInputs.cache
+C:\Users\991718\Documents\Alura.WebAPI\testeef\obj\Debug\netcoreapp3.1\testeef.AssemblyInfo.cs
+C:\Users\991718\Documents\Alura.WebAPI\testeef\obj\Debug\netcoreapp3.1\testeef.csproj.CoreCompileInputs.cache
+C:\Users\991718\Documents\Alura.WebAPI\testeef\obj\Debug\netcoreapp3.1\testeef.MvcApplicationPartsAssemblyInfo.cache
